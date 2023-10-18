@@ -1,1 +1,3 @@
 # argem
+YOK ARAŞTIRMA KAPASİTESİ BOYUTU GÖSTERGE TANIMLARI
+html tasarım
